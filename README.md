@@ -3,3 +3,4 @@
 # vurma cədvəli
 # multiplication-table
 # multiplication-table
+# multiplication-table
