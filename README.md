@@ -1,0 +1,2 @@
+# vurma cədvəli
+# multiplication-table
